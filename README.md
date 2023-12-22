@@ -13,7 +13,7 @@ an external api. You skip that cost and you can even add a DB directly to your b
 
 to run this project you need to have installed the go templ cli tool:
 
-(go-templ github)[https://github.com/a-h/templ]
+[go templ](https://github.com/a-h/templ)
 
 you need to install rollup globally
 
