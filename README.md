@@ -22,6 +22,14 @@ npm i -g rollup
 
 ## How to use
 
+Compile templates by running
+
+```bash
+make
+```
+
+Run the rollup watcher and the go server by running
+
 ```bash
 make run-both
 ```
