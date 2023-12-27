@@ -3,7 +3,7 @@ module github.com/georgeiliadis91/gozila
 go 1.21.4
 
 require (
-	github.com/a-h/templ v0.2.476
+	github.com/a-h/templ v0.2.501
 	github.com/labstack/echo/v4 v4.11.4
 )
 
